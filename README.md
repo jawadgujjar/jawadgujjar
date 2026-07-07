@@ -7,7 +7,7 @@
 
 *Transforming business operations through high-performance web engineering.*
 
-[**Portfolio**](https://my-portfolio-zeta-weld-78.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/jawad-ahmad-5b303623a/) • [**Email**](mailto:jawadgujjar.dev@gmail.com)
+[**Portfolio**](https://my-portfolio-zeta-weld-78.vercel.app/) • [**LinkedIn**](https://www.linkedin.com/in/jawad-ahmad-5b303623a/) • [**Email**](mailto:jawadgujjar573@gmail.com)
 
 </div>
 
