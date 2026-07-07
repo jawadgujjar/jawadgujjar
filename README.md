@@ -1,8 +1,9 @@
 <div align="center">
 
-# 👨‍💻 Jawad Ahmad
-### Full-Stack Engineer | Digital Architect | Business Strategist
+<!-- Luxury Animated Banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=600&lines=Full-Stack+Engineer;Digital+Architect;Business+Strategist" alt="Typing Animation" />
 
+# 👨‍💻 Jawad Ahmad
 ---
 
 *Transforming business operations through high-performance web engineering.*
@@ -41,6 +42,16 @@ Beyond code, I operate as a **Business Owner** in the manufacturing sector. This
 
 *I am currently open to high-impact, remote engineering partnerships where my technical expertise and business acumen can provide strategic value.*
 
-**[Let's Discuss a Project]**
+<br>
+
+<!-- WhatsApp Button -->
+<a href="https://wa.me/923201018646?text=Hi%20Jawad,%20I%20would%20like%20to%20discuss%20a%20project%20with%20you.">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+</a>
+
+<!-- Email Button -->
+<a href="mailto:jawadgujjar573@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0077B5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
 
 </div>
